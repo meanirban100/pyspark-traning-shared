@@ -1,8 +1,16 @@
 -- Databricks notebook source
--- MAGIC %md ##This notebook gives you the idea of different kind of Delta Tables
+-- MAGIC %md ##Different Delta Lake Table
+-- MAGIC 
+-- MAGIC #### Objectives
+-- MAGIC By the end of this you will able to understand 
+-- MAGIC - Different types of Delta Lake Tables
+-- MAGIC - Difference between External and Managed Tables
 -- MAGIC 
 -- MAGIC More information on Delta Lake Tables are can be found here 
 -- MAGIC https://learn.microsoft.com/en-gb/azure/databricks/delta/
+-- MAGIC 
+-- MAGIC Different create table options
+-- MAGIC https://learn.microsoft.com/en-gb/azure/databricks/sql/language-manual/sql-ref-syntax-ddl-create-table-using
 
 -- COMMAND ----------
 
