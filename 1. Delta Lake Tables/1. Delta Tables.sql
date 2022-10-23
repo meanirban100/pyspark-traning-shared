@@ -14,7 +14,7 @@
 
 -- COMMAND ----------
 
--- MAGIC %md ##1. Managed Table
+-- MAGIC %md ###1. Managed Table
 
 -- COMMAND ----------
 
@@ -55,7 +55,7 @@ insert into emp_managed values
 
 -- COMMAND ----------
 
--- MAGIC %md ### drop the table
+-- MAGIC %md ### Drop the table
 
 -- COMMAND ----------
 
@@ -72,7 +72,7 @@ drop table emp_managed
 
 -- COMMAND ----------
 
--- MAGIC %md ##1. External Table
+-- MAGIC %md ###2. External Table
 
 -- COMMAND ----------
 
