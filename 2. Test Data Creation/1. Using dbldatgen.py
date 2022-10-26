@@ -1,10 +1,10 @@
 # Databricks notebook source
 # MAGIC %md ### Test Data generation using dbldatgen
 # MAGIC 
-# MAGIC For more information refere documentation
+# MAGIC For more information refer documentation
 # MAGIC  - https://databrickslabs.github.io/dbldatagen/public_docs/
 # MAGIC  
-# MAGIC GIT link
+# MAGIC GIT
 # MAGIC - https://github.com/databrickslabs/dbldatagen
 
 # COMMAND ----------

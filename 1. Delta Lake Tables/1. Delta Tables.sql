@@ -147,4 +147,13 @@ drop table emp_external
 
 -- COMMAND ----------
 
+-- MAGIC %md ### Cleanup
+
+-- COMMAND ----------
+
+-- MAGIC %python
+-- MAGIC dbutils.fs.rm('dbfs:/user/hive/warehouse/emp_external',True)
+
+-- COMMAND ----------
+
 
